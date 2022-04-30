@@ -1,1 +1,1 @@
-"# STAT10430 Statistics With Python" 
+# STAT10430 Statistics With Python
